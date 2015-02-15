@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Franco\AndroidStudioProjects\YoutubeNatGeo\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7d2525cba8ed61fff102977caed964fc22061e34">
+        <dex dex="C:\Users\Franco\AndroidStudioProjects\YoutubeNatGeo\app\build\intermediates\pre-dexed\debug\classes-f09c906ddb2a09db6f88340ef020cee05e6a6e0e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Franco\AndroidStudioProjects\YoutubeNatGeo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Franco\AndroidStudioProjects\YoutubeNatGeo\app\build\intermediates\pre-dexed\debug\classes-ade43326ae4b1692fff3cb600c829d41dc897903.jar" />
+    </item>
+    <item
+        jar="C:\Users\Franco\AndroidStudioProjects\YoutubeNatGeo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Franco\AndroidStudioProjects\YoutubeNatGeo\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-4b1e793175af3f90ebccb4fa45648e154e60a9ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\Franco\AndroidStudioProjects\YoutubeNatGeo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Franco\AndroidStudioProjects\YoutubeNatGeo\app\build\intermediates\pre-dexed\debug\classes-f46fc629e08b065e0ea1f78cdb2a6561a6501c0f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Franco\AndroidStudioProjects\YoutubeNatGeo\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
+        <dex dex="C:\Users\Franco\AndroidStudioProjects\YoutubeNatGeo\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi-095a7777fffc5047114a90ef248b41b5722150f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Franco\AndroidStudioProjects\YoutubeNatGeo\app\libs\picasso-2.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="C:\Users\Franco\AndroidStudioProjects\YoutubeNatGeo\app\build\intermediates\pre-dexed\debug\picasso-2.5.0-96f3a069b8b36c3ea2d1fa93cb8bc1a76ccf83d8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Franco\AndroidStudioProjects\YoutubeNatGeo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="C:\Users\Franco\AndroidStudioProjects\YoutubeNatGeo\app\build\intermediates\pre-dexed\debug\classes-9a3a0917738b3f1ad03a14620d973af7c6e82601.jar" />
+    </item>
+    <item
+        jar="C:\ADT\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Franco\AndroidStudioProjects\YoutubeNatGeo\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-8e046c1576d2161a1f5f29eaeb89d4576202722b.jar" />
+    </item>
+
+</items>

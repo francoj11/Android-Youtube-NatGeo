@@ -1,0 +1,9 @@
+C:\Users\Franco\AndroidStudioProjects\YoutubeNatGeo\app\build\intermediates\classes\release
+C:\Users\Franco\AndroidStudioProjects\YoutubeNatGeo\app\build\intermediates\pre-dexed\release\support-annotations-21.0.3-8e046c1576d2161a1f5f29eaeb89d4576202722b.jar
+C:\Users\Franco\AndroidStudioProjects\YoutubeNatGeo\app\build\intermediates\pre-dexed\release\classes-f09c906ddb2a09db6f88340ef020cee05e6a6e0e.jar
+C:\Users\Franco\AndroidStudioProjects\YoutubeNatGeo\app\build\intermediates\pre-dexed\release\YouTubeAndroidPlayerApi-095a7777fffc5047114a90ef248b41b5722150f8.jar
+C:\Users\Franco\AndroidStudioProjects\YoutubeNatGeo\app\build\intermediates\pre-dexed\release\picasso-2.5.0-96f3a069b8b36c3ea2d1fa93cb8bc1a76ccf83d8.jar
+C:\Users\Franco\AndroidStudioProjects\YoutubeNatGeo\app\build\intermediates\pre-dexed\release\internal_impl-21.0.3-4b1e793175af3f90ebccb4fa45648e154e60a9ac.jar
+C:\Users\Franco\AndroidStudioProjects\YoutubeNatGeo\app\build\intermediates\pre-dexed\release\classes-9a3a0917738b3f1ad03a14620d973af7c6e82601.jar
+C:\Users\Franco\AndroidStudioProjects\YoutubeNatGeo\app\build\intermediates\pre-dexed\release\classes-ade43326ae4b1692fff3cb600c829d41dc897903.jar
+C:\Users\Franco\AndroidStudioProjects\YoutubeNatGeo\app\build\intermediates\pre-dexed\release\classes-f46fc629e08b065e0ea1f78cdb2a6561a6501c0f.jar
